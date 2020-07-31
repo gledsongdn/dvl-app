@@ -89,7 +89,7 @@ this.state = {
     </div>
     <div class="footer-copyright">
         <div class="container">
-            dvl-core.it
+            Gledson Vicente R. de O. Santos
         </div>
     </div>
 </footer>
